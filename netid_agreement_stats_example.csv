@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;100.0;100.0;1.0;1.0;0;0;NA;Clear definitions in coding guide.
+WhyRecovered;90.0;100.0;NA;NA;1;1;NA;Single disagreement resolved after discussion.
+ActivityPattern;100.0;100.0;1.0;1.0;0;0;NA;Plots made pattern obvious.
+Currentstatus;100.0;100.0;NA;NA;0;0;NA;All were active.
+RecentThemes;100.0;100.0;NA;NA;0;0;NA;Themes easy to pull from commit messages.

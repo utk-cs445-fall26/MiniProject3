@@ -1,0 +1,2 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;AdjudicatedValue;ResolutionType(AuthorKept/ValidatorKept/Compromise);PostDiscussAgreementstatus(Yes/No);KeyEvidence;Comments
+https://github.com/GEOLYTIX/xyz;TEAMMATE_NET_ID;YOUR_NET_ID;WhyRecovered;setup → feature development (no gap);Continuous updates — no recovery phase;Continuous updates — no recovery phase;ValidatorKept;Yes;Commit history shows regular feature development without a distinct recovery point.;Activity never truly stopped, so not a real recovery.
