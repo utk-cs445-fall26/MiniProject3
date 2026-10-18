@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;100.0;100.0;1;1;0;0;We agreed on the recovery label for all ten projects.
+WhyRecovered;100.0;100.0;NA;NA;0;0;We agreed on the main reason that work restarted for every project.
+ActivityPattern;100.0;100.0;1;1;0;0;We used the same activity pattern for all ten projects.
+Currentstatus;100.0;100.0;1;1;0;0;We used the same April 1, 2025 cutoff and agreed on every status.
+RecentThemes;90.0;100.0;NA;NA;1;1;The only disagreement was whether BISWEB's recent work was bot activity or bug fixes.
