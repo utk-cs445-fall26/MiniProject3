@@ -1,0 +1,16 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
+https://github.com/GEOLYTIX/xyz;teammate_netid;your_netid;HasRecovered;No;No;No;No clear inactivity gap; continuous feature updates over time.;No;AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+https://github.com/ImagingDataCommons/dicomweb-client;teammate_netid;your_netid;HasRecovered;Yes;Yes;Yes;Development paused Aug–Dec 2023; resumed with new feature commits.;Yes;AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+https://github.com/Pressio/pressio;teammate_netid;your_netid;HasRecovered;Yes;Yes;Yes;Consistent debugging commits; activity steady throughout 2024.;Yes;AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+7 more rows...;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+https://github.com/GEOLYTIX/xyz;teammate_netid;your_netid;WhyRecovered;setup → feature development (no gap);Continuous updates — no recovery phase;No;No clear inactivity gap; continuous feature updates over time.;setup → feature development (no gap);AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+https://github.com/ImagingDataCommons/dicomweb-client;teammate_netid;your_netid;WhyRecovered;error checking → feature development;error checking → feature development;Yes;Development paused Aug–Dec 2023; resumed with new feature commits.;error checking → feature development;AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+https://github.com/Pressio/pressio;teammate_netid;your_netid;WhyRecovered;debugging → debugging;debugging → debugging;Yes;Consistent debugging commits; activity steady throughout 2024.;debugging → debugging;AuthorKept;Yes;No discrepancies found; partner (iweaver2) had no posted data; so author values were retained.
+7 more rows...;;;;;;;;;;;;
+"Make 10 rows for each field in {HasRecovered; WhyRecovered; Activity; Pattern; Currentstatus; RecentThemes}" ;;;;;;;;;;;;
+                     
+                  
+                    
+                     
