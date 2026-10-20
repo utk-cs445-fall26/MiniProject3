@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;90.0;100.0;0.0000;NA;1;1;Jacob accepted the validator recovery label. Pre-kappa retains author N/A as a category. Post-kappa is undefined: both final rating vectors contain only Yes, so expected agreement is 1.
+WhyRecovered;80.0;100.0;NA;NA;2;2;Both recovery explanations were accepted: bot maintenance for TF.js and the first documentation restart for CascadeStudio. Post agreement records consensus.
+ActivityPattern;100.0;100.0;1.0000;1.0000;0;0;All ten broad patterns matched the saved series and plots. Labels retained.
+Currentstatus;90.0;100.0;0.6154;1.0000;1;1;Jacob accepted Inactive for CascadeStudio at the fixed 2025-09-30 cutoff. Post agreement records consensus.
+RecentThemes;30.0;100.0;NA;NA;7;7;Jacob accepted all seven theme changes using the same saved ten-record windows, including bot and branch records. Post agreement records consensus.
