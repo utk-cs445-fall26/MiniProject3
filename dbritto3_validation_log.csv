@@ -1,0 +1,51 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
+arm61_pylj;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits resumed in 2024, with bug fixes and compilation fixes;;;;
+delsuc_spike;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits started again in 2024 with new processing features and bug fixes;;;;
+dswah_pyGAM;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits resumed in 2022 with compatibility updates;;;;
+gyyang_neurogym;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Development resumed in 2023 and increased in 2024-2025;;;;
+jbytecode_LinRegOutliers;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits resumed in 2021, with dependency updates and bug fixes;;;;
+lsst_daf_butler;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Development resumed in 2017 with a database implementation;;;;
+mothur_mothur;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Development started again in 2024 with barcode and compilation fixes;;;;
+nasa_CCDD;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits started again in 2021 with fixes to data types and importing and exporting;;;;
+PapenfussLab_gridss;ksaravan;dbritto3;HasRecovered;Yes;Yes;Yes;Commits resumed in 2014 with new features and updates to a supporting library;;;;
+stephenslab_mashr;ksaravan;dbritto3;HasRecovered;Yes (Partial Recovery);Yes;Yes;Five commits in November 2024 added a feature and updated documentation.;;;;
+arm61_pylj;ksaravan;dbritto3;WhyRecovered;It has had new bug fixes and documentation updates, so a minor change was expected in the release and it was done and documenation was updated;The project resumed to fix some compatibility issues and other bugs;Yes;Commits fixed setup issues and fixed animated plots;;;;
+delsuc_spike;ksaravan;dbritto3;WhyRecovered;The new season started with new features and further bug fixes;Work resumed to fix bugs and add new features;Yes;After the gap, commits added improved graphs and fixed data handling bugs;;;;
+dswah_pyGAM;ksaravan;dbritto3;WhyRecovered;It recovered to start a fresh season with new set of contributors as they took it over;New contributors fixed bugs and added support for newer libraries;Yes;Multiple contributors worked to fix compatibility with Python packages such as NumPy;;;;
+gyyang_neurogym;ksaravan;dbritto3;WhyRecovered;It has recovered to fix the compatibility issues and other bugs;The project resumed to fix some compatibility issues and other bugs;Yes;After the gap, missing initialization files were added and NumPy compatibility was fixed;;;;
+jbytecode_LinRegOutliers;ksaravan;dbritto3;WhyRecovered;It has recovered to fix the new bugs and reflect on the documentation made before the gap;The repo resumed with bug fixes and updates for dependencies;Yes;Contributors upgraded various dependencies, and updated function return types ;;;;
+lsst_daf_butler;ksaravan;dbritto3;WhyRecovered;It recovered from Pim Schellart taking it over and providing new new features to project;Development resumed with new implementation work from Pim Schellart.;Yes;Pim Schellart made multiple changes to the database schema after the gap.;;;;
+mothur_mothur;ksaravan;dbritto3;WhyRecovered;It has recovered from new fixes;Work resumed to address bugs and compilation;Yes;The commits fixed barcode handling and Linux compilation issues.;;;;
+nasa_CCDD;ksaravan;dbritto3;WhyRecovered;It has recovered for quick releases and bug fixes;Development resumed to fix bugs in file exports;Yes;After the gap, JSON/CSV import and export bugs were fixed;;;;
+PapenfussLab_gridss;ksaravan;dbritto3;WhyRecovered;New functionality and features have recovered the project;The project started up again to add new functionality;Yes;The commits introduced new evidence extraction and updated the Picard SDK;;;;
+stephenslab_mashr;ksaravan;dbritto3;WhyRecovered;It recovered with slight feature fixes;The project resumed with some subtle feature fixes and documentation improvements;Yes;Improvements were made to the summary function and they updated the documentation;;;;
+arm61_pylj;ksaravan;dbritto3;ActivityPattern;declining;declining;Yes;Commits slowed around 2018 and picked up around 2024;;;;
+delsuc_spike;ksaravan;dbritto3;ActivityPattern;declining;declining;Yes;The commits declined from 2015, with some small fixes and changes in 2023 and 2024;;;;
+dswah_pyGAM;ksaravan;dbritto3;ActivityPattern;irregular;irregular;Yes;Activity dropped after 2018, then increased again during 2023–2025.;;;;
+gyyang_neurogym;ksaravan;dbritto3;ActivityPattern;U-shaped;U-shaped;Yes;There was high activity in 2019-2020, dropped during 2021-2023, and recovered in 2024-2025;;;;
+jbytecode_LinRegOutliers;ksaravan;dbritto3;ActivityPattern;declining;declining;Yes;There was a high amount of commits in 2020, with lower totals in the following years;;;;
+lsst_daf_butler;ksaravan;dbritto3;ActivityPattern;cyclic;irregular;No;After development resumed there were many fluctuations of activity over the years;irregular;ValidatorKept;Yes;Upon further analysis, there was not a clear pattern of commit activity, so we agreed that it was irregular.
+mothur_mothur;ksaravan;dbritto3;ActivityPattern;cyclic;declining;No;Early years had hundreds of commits, followed by much lower activity and no commits in 2023.;cyclical;AuthorKept;Yes;Despite low activity in recent years, peaks of commit activity during the project's prime years followed a cyclic pattern.
+nasa_CCDD;ksaravan;dbritto3;ActivityPattern;irregular;irregular;Yes;Throughout the years, there are many fluctuations of activity, with many small bursts and gaps;;;;
+PapenfussLab_gridss;ksaravan;dbritto3;ActivityPattern;U-shaped;irregular;No;Activity fluctuated a lot between 2015 and 2020, before slowing after 2021;U-shaped;AuthorKept;Yes;Because there were many periods of activity as well as two prominent peaks, we settled on a U-shaped pattern for the commit activity.
+stephenslab_mashr;ksaravan;dbritto3;ActivityPattern;irregular;irregular;Yes;The activity fluctuates, with a burst in 2019-2020, followed by a decline ;;;;
+arm61_pylj;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;Latest commit was in September of 2026;;;;
+delsuc_spike;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;Latest commit was in August of 2026;;;;
+dswah_pyGAM;ksaravan;dbritto3;Currentstatus;Inactive;Inactive;Yes;The latest commit was in January of 2026 which is outside the 6 month window;;;;
+gyyang_neurogym;ksaravan;dbritto3;Currentstatus;Inactive;Inactive;Yes;The latest commit was March of 2026 which is outside the 6 month window;;;;
+jbytecode_LinRegOutliers;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;The latest commit was in September of 2026;;;;
+lsst_daf_butler;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;The latest commit was in September of 2026;;;;
+mothur_mothur;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;The latest commit was in August of 2026;;;;
+nasa_CCDD;ksaravan;dbritto3;Currentstatus;Active;Active;Yes;The latest commit was in June 30 of 2026;;;;
+PapenfussLab_gridss;ksaravan;dbritto3;Currentstatus;Inactive;Inactive;Yes;The latest commit was in May of 2025 which is outside the 6 month window;;;;
+stephenslab_mashr;ksaravan;dbritto3;Currentstatus;Inactive;Inactive;Yes;The latest commit was in November of 2024 which is outside the 6 month window;;;;
+arm61_pylj;ksaravan;dbritto3;RecentThemes;Dependency updates:Release;Dependency updates:Release;Yes;Recent commits added Python 3.12–3.15 support and prepared beta releases.;;;;
+delsuc_spike;ksaravan;dbritto3;RecentThemes;Bug fixes:Feature developments;Bug fixes:Feature development;Yes;Recent commits fixed file handling and added processing features.;;;;
+dswah_pyGAM;ksaravan;dbritto3;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Recent commits cleaned up documentation and fixed data packaging.;;;;
+gyyang_neurogym;ksaravan;dbritto3;RecentThemes;Release:Documentation updates;Release:Documentation updates;Yes;Recent commits prepared a release and updated the contributor list.;;;;
+jbytecode_LinRegOutliers;ksaravan;dbritto3;RecentThemes;Feature development:Bug fixes;Feature development:Bug fixes;Yes;Recent commits added regression estimators and fixed allocation handling.;;;;
+lsst_daf_butler;ksaravan;dbritto3;RecentThemes;Feature development:Dependency updates;Feature development:Dependency updates;Yes;Recent commits added dataset handling and updated dependencies;;;;
+mothur_mothur;ksaravan;dbritto3;RecentThemes;Dependency updates:Documentation updates;Bug fixes:Other;No;Recent activity fixed compilation problems and cleaned up the repo;Documentation updates:Other;Compromise;Yes;There was a combination of various changes and the documentation was updated for some of the changes.
+nasa_CCDD;ksaravan;dbritto3;RecentThemes;Dependency updates:Bug fixes;Release:Documentation updates;No;Recent activity has multiple version updates and documentation cleanup;Release:Documentation updates;ValidatorKept;Yes;There were many new version releases and updates to the README.md.
+PapenfussLab_gridss;ksaravan;dbritto3;RecentThemes;Documentation updates:Bug fixes;Documentation updates:Bug fixes;Yes;Latest commits are README updates and bug fixes;;;;
+stephenslab_mashr;ksaravan;dbritto3;RecentThemes;Feature development:Release;Feature development:Release;Yes;Recent commits added a summary function and bumped the version.;;;;

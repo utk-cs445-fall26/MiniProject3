@@ -13,4 +13,4 @@ Borderline case between steady and bursty; time series shows clear bursts.
 
 ## Example 3 — flyaflya/causact (Currentstatus)
 Documentation commits debated as active vs maintenance.  
-**Resolution:** Both agreed it's still Active.
+**Resolution:** Both agreed it's still Active.ny commits in regular intervals. 

@@ -1,0 +1,45 @@
+Codebook for conducting validation;;
+attribute;values;Explanation
+;;"Read the commit messages carefully looking for any hints about the reasons for the gap and reasons for the interruption of the gap. In addition; check the project’s GitHub issues; pull requests; and README updates immediately before and after the longest gap especially if the reasons are not completely obvious from the commit messages to clarifies why the project went inactive or became active again. For example; issues may show unanswered bug reports; which could be a possible cause of abandonment. A new pull request after the gap might be evidence of recovery. README changes may indicate maintainers marking the project as ""archived"" or ""revived."""
+HasRecovered;yes/no;"Did the project become active again after the longest gap? Evidence includes new commits; resumed issue responses; or updated README marking the project as revived."
+WhyRecovered;reason;"If HasRecovered = yes; describe what triggered recovery. Obtain or infer reason from new commits; resumed issue responses; releases or updated README marking the project as revived."
+ActivityPattern;steady/ rising/ declining/ U-shaped/ stopped/ cyclical /irregular;"Categorize the Project’s long term activity trends
+Steady: Consistent activity or commit frequency over time; with no significant upward or downward trend. An upward trend might indicate that a person is becoming more active over several months; while a downward trend could signal a decrease in mobility.
+Rising: Sustained and long-term increase in activity; indicating growing engagement or development momentum.
+Declining: Gradual long term reduction in activity; suggesting waning participation or project slowdown.
+U-Shaped: A period of decline followed by recovery; where activity levels drop and later rise again.
+Stopped: Activity has ceased with no signs of recovery or further engagement.
+Cyclical: Predictable; repeated patterns of activity occurring at fixed intervals (e.g.; quarterly or annually).
+Irregular:Highly variable and unpredictable patterns of activity that do not follow any discernible trend or cycle."
+Currentstatus;yes/no;"If no commits in the last 6 months as of 2025-09-30 (i.e.; last commit before April 1; 2025). Mark Inactive ; else Active"
+RecentThemes;Feature development/ Bug fixes/ Documentation updates/ Dependency updates/ Release/ Security patches/ Automated bot contributions/ Other;"Top two themes from the most recent 10 commits (or fewer if total commits in project < 10). 
+Possible themes of commits/commit messages include:
+
+    Feature development
+    Bug fixes
+    Documentation updates
+    Dependency updates
+    Release (For releases or release preparation)
+    Security patches
+    Automated bot contributions (For any bot upddatese.g.; Dependabot updates; CI bots; formatting bots)
+    Other (for anything not covered in the list)
+"
+;;
+;;
+;;
+;;
+Codebook for recording validation;;
+attribute;values;Explanation
+Field;name of validated field;"One of: HasRecovered; WhyRecovered; ActivityPattern; CurrentStatus; RecentThemes."
+AuthorValue;text;Original author’s assigned value for the field.
+ValidatorValue;text;Validator’s independent assessment.
+PreDiscussAgreementStatus;Yes / No;Did the validator agree with the author’s label before discussion?
+KeyEvidence;text;"Summary of supporting evidence (commit message snippets; README indicators; issue activity)."
+Comments;text;Brief qualitative explanation or notes from the validator.
+AdjudicatedValue;text;Final agreed value after discussion and reconciliation.
+ResolutionType;AuthorKept / ValidatorKept / Compromise;Who’s interpretation was kept after discussion. AuthorKept / ValidatorKept / Compromise
+PostDiscussAgreementStatus;Yes / No;Did the participants agree after discussion?
+MeanResolutionTime_min;numeric or NA;Average time (in minutes) taken to resolve disagreements for that field.
+CohenKappa_Pre / Post;numeric or NA;"Inter-rater reliability before and after discussion (categorical fields only: ActivityPattern; CurrentStatus; HasRecovered; RecentThemes. Mark NA for WhyRecovered)"
+Notes (Validation Stats);text;"Summary of common sources of disagreement; terminology mismatches; or clarity improvements."
+Suggestions;text;CodeBook Improvement suggestions

@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;90.0;100.0;0.9;1.0;1;1;3.0;Differed in how we define recovery.
+WhyRecovered;100.0;100.0;NA;NA;0;0;NA;No disagreements arised.
+ActivityPattern;80.0;100.0;0.8;1.0;2;2;5.0;Confusion arised between categorizing irregulars and cyclic.
+Currentstatus;100.0;100.0;1.0;1.0;0;0;NA;It was straightforward to find the status.
+RecentThemes;80.0;100.0;NA;NA;2;2;8.0;There were different teams that each one of us focused on for minor disagreements to rise.
