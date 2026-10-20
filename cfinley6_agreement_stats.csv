@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,MeanResolutionTime_min,Notes
+ActivityPattern,90.0,100.0,0.82,1.0,1,1,8.0,Agreed to prioritize long-term macro trend over micro bursts.
+HasRecovered,100.0,100.0,1.0,1.0,0,0,,Perfect alignment on recovery status.
+WhyRecovered,100.0,100.0,,,0,0,,Aligned on qualitative descriptions.
+Currentstatus,90.0,100.0,0.84,1.0,1,1,6.5,Disagreement rooted in strict adherence to data cutoff date.
+RecentThemes,90.0,100.0,,,1,1,10.0,"Clarified that test/build repairs are bug fixes, not feature dev."
