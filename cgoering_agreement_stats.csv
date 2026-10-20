@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;80.0;100.0;0.494;1.0;4;4;NA;Same bar applied both ways: a single trivial commit (LICENSE file, URL fix, README edits) after a gap is not a recovery.
+WhyRecovered;40.0;100.0;NA;NA;12;12;NA;"My values were unedited auto-draft text, so most mismatches were wording/specificity; adopted the more specific explanations."
+ActivityPattern;85.0;100.0;0.777;1.0;3;3;NA;"Borderline calls between steady, irregular, declining and stopped; resolved by checking yearly commit counts against the coding guide."
+Currentstatus;90.0;100.0;0.692;1.0;2;2;NA;"Two Inactive labels contradicted the author's own 2026 last-commit dates; the 2025-04-01 cutoff rule resolved them."
+RecentThemes;35.0;100.0;NA;NA;13;13;NA;"Largest disagreement: automatic ""Merge <sha> into <sha>"" and bot builds were counted inconsistently; resolved by reading the last 10 commit messages."
