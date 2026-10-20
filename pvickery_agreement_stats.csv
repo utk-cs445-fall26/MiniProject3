@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;95.0;100;.9;1;1;1;Very high agreement, with one disagreement about whether a one month gap counted as an inactivity gap.
+WhyRecovered;85.0;100;N/A;N/A;3;3;High agreement, most differences were from how specific we were with describing the commits after recovery.
+ActivityPattern;60.0;100.0;.53;1;8;8;Lowest agreement, mostly due to differing interpretations of the irregular label.
+CurrentStatus;95.0;100.0;.9;1;1;1;Very high agreement, with one disagreement about which date was the cutoff for an active project.
+RecentThemes;85.0;100.0;N/A;N/A;3;3;High agreement, most differences came from use of the Other category.

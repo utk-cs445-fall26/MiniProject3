@@ -1,0 +1,51 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;KeyEvidence;Comments
+baggepinnen_spectraldistances.jl;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended June 2025;
+itowns_itowns;cboddick;pvickery;HasRecovered;N/A;N/A;Yes;;No gap recorded;
+maria-korosteleva_garment-pattern-estimation;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended November 2024;
+massimocimmino_pygfunction;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended October 2018;
+nimble-dev_nimble;cboddick;pvickery;HasRecovered;N/A;N/A;Yes;;No gap recorded;
+raysect_source;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended October 2024;
+serock3_master_thesis_qec_simulation;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended August 2024;
+tf-encrypted_tf-encrypted;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended August 2024;
+the-virtual-brain_tvb-root;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ended November 2018;
+xtra-computing_thundergbm;cboddick;pvickery;HasRecovered;Yes;Yes;Yes;;Gap ends February 2025;
+baggepinnen_spectraldistances.jl;cboddick;pvickery;WhyRecovered;Activity restarted dependency updates, followed by compatibility maintenance, a version bump, and build-related commits. The gap seemed like more of a pause in development and was recovered after a routine break after a version release.;Dependency and compatibility maintenance resumed, including bot bumps and a version update.;Yes;;Commits reference compatibility updates, version bumps, and build related changes;
+itowns_itowns;cboddick;pvickery;WhyRecovered;N/A;N/A;Yes;;No gap recorded;
+maria-korosteleva_garment-pattern-estimation;cboddick;pvickery;WhyRecovered;The project returned to address issue #11 by fixing prediction naming conventions, followed by a merge commit. While it did recover, it was for only a short period.;Issue #11 prediction naming fix and merge;Yes;;There is only one commit after the gap which references fixing issue #11;
+massimocimmino_pygfunction;cboddick;pvickery;WhyRecovered;Development resumed with substantial feature work, including a networks package, a Network class, and new interface.;New coaxial-pipe functionality and networks package development.;Yes;;Commits after gap reference networks package and network class development;
+nimble-dev_nimble;cboddick;pvickery;WhyRecovered;N/A;N/A;Yes;;No gap recorded;
+raysect_source;cboddick;pvickery;WhyRecovered;Development resumed with setup and build refactoring, dependency constraint updates, and a bug fix.;Build refactoring, dependency compatibility and bug fixes;Yes;;Commits after gap reference buld refactoring, updating cython dependency constraints, and multiple bug fixes;
+serock3_master_thesis_qec_simulation;cboddick;pvickery;WhyRecovered;The first available post-gap WoC commit was a small README spelling and grammar update, so the initial return was brief and documentation-focused.;The only commit after the longest inactivity gap was to add the MIT license, so the return was short;No;The recovery was brief and focused on documentation and repository cleanup. The immediate post-gap commit updated README spelling and grammar, while later GitHub activity included adding the MIT license.;Commit after longest gap was to add MIT license, as the commit to update the README was after a shorter gap;We agreed that the README update and MIT license cleanup both represent the same brief documentation/repository-cleanup return rather than renewed development.
+tf-encrypted_tf-encrypted;cboddick;pvickery;WhyRecovered;The project returned for a narrow bug fix. Only two post-gap commits were available, so the recovery was limited.;The project returned for a single bug fix, so the recovery was very short.;Yes;;Commit after gap references fixing an issue where the result is expected to be unsigned but is signed for some parameters;
+the-virtual-brain_tvb-root;cboddick;pvickery;WhyRecovered;Activity resumed during GitHub publication and repository integration work, including merges from TVB framework and library branches, Docker-related work, and bug fixes.;Activity resumed to merge TVB framework, library, and Docker branches into main, bug fixes, and to work on GitHub publication.;Yes;;Commits after gap reference merging branches,updating documentation, and renaming before publishing;
+xtra-computing_thundergbm;cboddick;pvickery;WhyRecovered;The gap ended with two README updates.;Two README updates ended the gap;Yes;;Only two updates after the gap in March 2025 which both update README;
+baggepinnen_spectraldistances.jl;cboddick;pvickery;ActivityPattern;cyclical;irregular;No;irregular;Activity does not follow a predictable pattern;We agreed the activity spikes do not occur at predictable intervals, so irregular fits the pattern better than cyclical.
+itowns_itowns;cboddick;pvickery;ActivityPattern;declining;declining;Yes;;Activity has generally decreased throughout the project;
+maria-korosteleva_garment-pattern-estimation;cboddick;pvickery;ActivityPattern;declining;declining;Yes;;The project has mostly decreased in activity;
+massimocimmino_pygfunction;cboddick;pvickery;ActivityPattern;irregular;irregular;Yes;;Activity does not follow a predictable pattern;
+nimble-dev_nimble;cboddick;pvickery;ActivityPattern;steady;steady;Yes;;Activity remains fairly consistent apart from a few months with significantly higher activity;
+raysect_source;cboddick;pvickery;ActivityPattern;cyclical;irregular;No;irregular;Multiple inactivity gaps but the fluctuations in activity do not seem to follow a predictable schedule;We agreed Raysect has uneven spikes and gaps without a predictable repeating cycle, so irregular is a better classification.
+serock3_master_thesis_qec_simulation;cboddick;pvickery;ActivityPattern;cyclical;stopped;No;stopped;The last commit on September 7 2024 was to add the MIT license, and no further development has been made;We agreed the project has heavy development early in its timeline and then essentially ends, so stopped fits better than cyclical.
+tf-encrypted_tf-encrypted;cboddick;pvickery;ActivityPattern;declining;declining;Yes;;Activity mostly decreased throughout the project, with some months of increased activity before dropping again;
+the-virtual-brain_tvb-root;cboddick;pvickery;ActivityPattern;steady;irregular;No;irregular;Activity fluctuates significantly but does not follow a pattern;We agreed the project has large uneven spikes and changing levels of activity, so irregular fits better than steady.
+xtra-computing_thundergbm;cboddick;pvickery;ActivityPattern;declining;declining;Yes;;Activity significantly decreases after spiking in 2019;
+baggepinnen_spectraldistances.jl;cboddick;pvickery;Currentstatus;Active;Active;Yes;;There are commits past the cutoff date of April 1 2025;
+itowns_itowns;cboddick;pvickery;Currentstatus;Active;Active;Yes;;There are commits past the cutoff date of April 1 2025;
+maria-korosteleva_garment-pattern-estimation;cboddick;pvickery;Currentstatus;Inactive;Inactive;Yes;;No commits made past the cutoff date of April 1 2025;
+massimocimmino_pygfunction;cboddick;pvickery;Currentstatus;Active;Active;Yes;;There are commits past the cutoff date of April 1 2025;
+nimble-dev_nimble;cboddick;pvickery;Currentstatus;Active;Active;Yes;;There are commits past the cutoff date of April 1 2025;
+raysect_source;cboddick;pvickery;Currentstatus;Active;Active;Yes;;There are commits past the April 1 2025 cutoff date;
+serock3_master_thesis_qec_simulation;cboddick;pvickery;Currentstatus;Inactive;Inactive;Yes;;No commits were made past the April 1 2025 cutoff date;
+tf-encrypted_tf-encrypted;cboddick;pvickery;Currentstatus;Inactive;Inactive;Yes;;No commits were past the April 1 2025 cutoff date;
+the-virtual-brain_tvb-root;cboddick;pvickery;Currentstatus;Active;Active;Yes;;Commits have been made past the cutoff date of April 1 2025;
+xtra-computing_thundergbm;cboddick;pvickery;Currentstatus;Inactive;Inactive;Yes;;No commits were made past the cutoff date of April 1 2025;
+baggepinnen_spectraldistances.jl;cboddick;pvickery;RecentThemes;Other:Automated bot contributions;Other:Automated bot contributions;Yes;;Recent commits are mostly general maintenance work, with one commit from an automated bot named CompatHelper;
+itowns_itowns;cboddick;pvickery;RecentThemes;Other;Bug fixes:Feature development;No;Bug fixes:Feature development;Recent commits most reference fixes followed by features;We agreed my original Other category was too broad and that the recent commits are better represented by bug fixes and feature development.
+maria-korosteleva_garment-pattern-estimation;cboddick;pvickery;RecentThemes;Feature development:Other;Feature development:Other;Yes;;Recent commits are mostly feature development;
+massimocimmino_pygfunction;cboddick;pvickery;RecentThemes;Other:Bug fixes;Feature development:Release;No;Feature development:Release;Recent commits reference adding new functions for the Borefield class, methods for creating the gFunction and Network classes, and changes related to version 2.3.1;We agreed my original Other category was too broad and that the recent commits more clearly represent feature development and release work.
+nimble-dev_nimble;cboddick;pvickery;RecentThemes;Other:Documentation updates;Other:Documentation updates;Yes;;Recent commits reference miscellaneous changes and updates to documentation;
+raysect_source;cboddick;pvickery;RecentThemes;Documentation updates:Other;Documentation updates:Other;Yes;;Recent commits mostly reference documentation updates and other miscellaneous changes;
+serock3_master_thesis_qec_simulation;cboddick;pvickery;RecentThemes;Feature development:Other;Feature development:Other;Yes;;Recent commits reference feature development and other various changes;
+tf-encrypted_tf-encrypted;cboddick;pvickery;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;;Recent commits reference bug fixes as well as refactoring and other changes;
+the-virtual-brain_tvb-root;cboddick;pvickery;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;;Recent commits reference significant backend work as well as bug fixes;
+xtra-computing_thundergbm;cboddick;pvickery;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;;Most recent commits reference bug fixes and other updates;
