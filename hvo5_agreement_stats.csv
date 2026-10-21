@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;50.0;100.0;0.000;1.000;5;5;Gap-definition mismatch. Holes of 1-2 months, including GraphScope's startup, were coded as recoveries, and tuto-fsl's 4-month gap was not. Resolved with the 3-month rule. Pre kappa is 0 because the author chose Yes on 8 of 10.
+WhyRecovered;40.0;100.0;NA;NA;6;6;Free text, so kappa is NA. Mostly the same gap-definition cases, plus pecos, where the return was pandas and test-runner maintenance rather than new features.
+ActivityPattern;70.0;100.0;0.545;1.000;3;3;Terminology mismatch. Seasonal is not a codebook label (tuto-fsl), and Cyclical was used where yearly counts bounce with no fixed period (enterprise, bijectors).
+Currentstatus;90.0;100.0;0.737;1.000;1;1;One disagreement, settled by the date rule. sage's last commit is 2025-11-04, after the 2025-04-01 cutoff, so it is Active.
+RecentThemes;30.0;100.0;NA;NA;7;7;Kappa is NA. Themes were read from the whole history instead of the last 10 commits. scikit-fem also used 'Bug fixing' instead of the codebook's 'Bug fixes'.
